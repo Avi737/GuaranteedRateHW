@@ -1,0 +1,8 @@
+﻿Mary|Hall|Female|Electric_lavender|9/6/2000
+Patricia|Allen|Female|Electric_lime|8/9/1963
+Mark|Martin|Male|Cherry_blossom_pink|12/11/1948
+Clarence|Sims|Male|Green|09/29/1999
+Denise|Williamson|Female|Crimson|08/03/2012
+Tina|Davis|Female|Violet|11/25/2006
+Heather|Burke|Female|Crimson|07/16/2016
+Brandon|Franklin|Male|Mauv|01/06/2004
